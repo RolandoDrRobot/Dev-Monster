@@ -584,6 +584,33 @@ ul.minicart .cart-content a:hover,
   justify-content: flex-start;
 }
 
+.main-menu nav .logo img {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border: 2px solid #e4a101;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.main-menu nav .logo h2 {
+  font-size: 24px;
+  margin: 0;
+}
+
+.main-menu nav .logo h2 span {
+  color: #e4a101;
+}
+
+@media (min-width: 1200px) {
+  .main-menu nav .logo img {
+    width: 70px;
+    height: 70px;
+    margin-right: 12px;
+  }
+}
+
+
 .navbar-wrap {
   display: flex;
   flex-grow: 1;
@@ -1424,7 +1451,7 @@ ul.minicart .cart-price .new {
   background-image: url(../img/slider/slider_bg.jpg);
   background-position: center;
   background-size: cover;
-  padding: 260px 0;
+  padding: 70px 0 260px;
 }
 
 .slider-content h6 {
