@@ -166,9 +166,6 @@
 .match-team-logo img {
 	width: 75px;
 }
-.coming-match-status img {
-	width: 50px;
-}
 .coming-match-status {
 	margin: 0 15px;
 }
@@ -521,9 +518,6 @@
 }
 .match-team-logo img {
 	width: 75px;
-}
-.coming-match-status img {
-	width: 50px;
 }
 .coming-match-status {
 	margin: 0 15px;
@@ -881,9 +875,6 @@ form.third-contact-form {
 .tournament-schedule-item .match-team-logo img {
 	width: 75px;
 }
-.tournament-schedule-item .coming-match-status img {
-	width: 50px;
-}
 .tournament-schedule-item .coming-match-status {
 	margin: 0 15px;
 }
@@ -907,9 +898,6 @@ form.third-contact-form {
 }
 .match-team-logo img {
 	width: 75px;
-}
-.coming-match-status img {
-	width: 50px;
 }
 .coming-match-status {
 	margin: 0 25px;
