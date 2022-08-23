@@ -4155,7 +4155,7 @@ ul.minicart .cart-price .new {
 }
 
 .blog-list-post-bottom ul {
-  background: #252525;
+  background: rgb(28, 17, 33);
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -4207,7 +4207,7 @@ ul.minicart .cart-price .new {
 }
 
 .blog-sidebar {
-  background: #252525;
+  background: #1c1121;
   margin-left: 20px;
   padding: 25px;
 }
@@ -4215,6 +4215,7 @@ ul.minicart .cart-price .new {
 .sidebar-about-thumb img {
   width: 100%;
   margin-bottom: 30px;
+  border: 3px solid #e4a101;
 }
 
 .sidebar-widget-title h4 {
@@ -5184,7 +5185,8 @@ ul.minicart .cart-price .new {
 
 .sidebar-new-game-content h5 a:hover,
 .contact-form button:hover,
-.features-list-content button:hover {
+.features-list-content button:hover,
+.widget button:hover {
   color: #1c1121;
   background-color: #e4a101;
 }
@@ -5263,7 +5265,8 @@ ul.minicart .cart-price .new {
 }
 
 .contact-form button,
-.features-list-content button {
+.features-list-content button,
+.widget button {
   display: block;
   width: 100%;
   font-size: 16px;
