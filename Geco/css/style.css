@@ -584,7 +584,8 @@ ul.minicart .cart-content a:hover,
   justify-content: flex-start;
 }
 
-.main-menu nav .logo img {
+.main-menu nav .logo img,
+.footer-logo img {
   width: 60px;
   height: 60px;
   object-fit: cover;
@@ -593,17 +594,20 @@ ul.minicart .cart-content a:hover,
   margin-right: 10px;
 }
 
-.main-menu nav .logo h2 {
+.main-menu nav .logo h2,
+.footer-logo h2 {
   font-size: 24px;
   margin: 0;
 }
 
-.main-menu nav .logo h2 span {
+.main-menu nav .logo h2 span,
+.footer-logo h2 span {
   color: #e4a101;
 }
 
 @media (min-width: 1200px) {
-  .main-menu nav .logo img {
+  .main-menu nav .logo img,
+  .footer-logo img  {
     width: 70px;
     height: 70px;
     margin-right: 12px;
@@ -5556,7 +5560,7 @@ ul.minicart .cart-price .new {
 .footer-social ul li a {
   width: 36px;
   height: 36px;
-  background-color: rgb(59, 89, 152);
+  background-color: #8a3ab9;
   display: block;
   text-align: center;
   line-height: 36px;
@@ -5566,11 +5570,11 @@ ul.minicart .cart-price .new {
 }
 
 .footer-social ul li:nth-child(2) a {
-  background: #55acee;
+  background: #0077B5;
 }
 
 .footer-social ul li:nth-child(3) a {
-  background: #d71e18;
+  background: #5865F2;
 }
 
 .footer-social ul li:nth-child(4) a {
