@@ -3572,11 +3572,15 @@ ul.minicart .cart-price .new {
 }
 
 .accessories-content h5 {
-  font-size: 18px;
+  font-size: 20px;
   text-transform: uppercase;
-  color: #37303a;
+  color: #e9a301;
   line-height: 1;
   margin-bottom: 5px;
+}
+
+.accessories-content p {
+  font-size: 16px;
 }
 
 .accessories-content h5 a:hover {
