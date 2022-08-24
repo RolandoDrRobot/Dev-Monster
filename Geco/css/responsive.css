@@ -262,6 +262,7 @@
 }
 .latest-match-box .tournament-schedule-content p {
 	padding-right: 0;
+	margin-bottom: 5px;
 }
 .team-member-content h4 {
 	font-size: 18px;
@@ -1058,8 +1059,8 @@ form.third-contact-form {
 .latest-match-box .tournament-schedule-content {
 	padding: 25px 20px 45px;
 }
-.latest-match-thumb img {
-	width: 100%;
+.latest-match-thumb {
+	height: 100px;
 }
 .inner-about-area {
 	padding-top: 110px;

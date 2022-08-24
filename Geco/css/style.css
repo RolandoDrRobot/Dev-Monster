@@ -1445,7 +1445,7 @@ ul.minicart .cart-price .new {
 }
 
 .game-overview-breadcrumb.breadcrumb-bg {
-  padding-top: 225px;
+  padding-top: 125px;
   padding-bottom: 120px;
 }
 
@@ -2980,6 +2980,7 @@ ul.minicart .cart-price .new {
   background-image: url(../img/bg/latest_match_bg.jpg);
   background-position: center;
   background-size: cover;
+  background-attachment: fixed;
 }
 
 .latest-match-box {
@@ -2991,6 +2992,7 @@ ul.minicart .cart-price .new {
 }
 
 .latest-match-box .tournament-schedule-content {
+  width: 100%;
   padding: 41px 30px;
   background: #1c181e;
 }
@@ -7864,4 +7866,42 @@ ul.minicart .cart-price .new {
 
 .home-six-footer .copyright-wrap {
   padding: 31px 0;
+}
+
+
+/* Overrides */
+.latest-match-box {
+  background-color: #030303;
+}
+
+
+.latest-match-thumb {
+	width: 100%;
+	height: 100px;
+	background-color: #030303;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.latest-match-thumb img {
+  border-radius: 50%;
+}
+
+@media (min-width: 768px) {
+  .latest-match-thumb {
+    width: 130px;
+  }
+}
+
+@media (min-width: 992px) {
+  .latest-match-box {
+    height: 96%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .latest-match-box {
+    height: 92%;
+  }
 }
