@@ -51,6 +51,10 @@
   font-style: normal;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: 'Poppins', sans-serif;
   font-weight: normal;
@@ -467,6 +471,20 @@ label {
 .header-social ul li a {
   color: #b4b0b5;
   font-size: 13px;
+}
+
+.breadcrumb-social ul {
+  margin-top: 8px;
+  display: flex;
+}
+
+.breadcrumb-social ul li a {
+  color: #b4b0b5;
+  font-size: 18px;
+}
+
+.breadcrumb-social ul li a:hover {
+  color: #e4a101;
 }
 
 .header-social ul li a:hover,
@@ -1346,7 +1364,7 @@ ul.minicart .cart-price .new {
 /* 4. Breadcrumb */
 .breadcrumb-bg {
   background-image: url(../img/bg/breadcrumb_bg.jpg);
-  padding-top: 275px;
+  padding-top: 200px;
   padding-bottom: 170px;
   background-position: center;
   background-size: cover;
@@ -1358,6 +1376,12 @@ ul.minicart .cart-price .new {
 
 .third-breadcrumb-bg {
   background-image: url(../img/bg/breadcrumb_bg.jpg);
+}
+
+.breadcrumb-content img {
+  border-radius: 50%;
+  border: 3px solid #f2a900;
+  margin-bottom: 15px;
 }
 
 .breadcrumb-content h2 {
@@ -1803,7 +1827,6 @@ ul.minicart .cart-price .new {
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
-  padding-bottom: 55px;
 }
 
 .home-four-area-bg {
