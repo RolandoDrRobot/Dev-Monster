@@ -3565,6 +3565,9 @@ ul.minicart .cart-price .new {
 
 .accessories-thumb img {
   width: 100%;
+  object-fit: cover;
+  border: 4px solid #e9a301;
+  border-radius: 10px;
 }
 
 .accessories-content {
