@@ -1479,7 +1479,7 @@ ul.minicart .cart-price .new {
   background-image: url(../img/slider/slider_bg.jpg);
   background-position: center;
   background-size: cover;
-  padding: 70px 0 260px;
+  padding: 120px 0 260px;
 }
 
 .slider-content h6 {
@@ -4065,8 +4065,17 @@ ul.minicart .cart-price .new {
   font-style: italic;
 }
 
+.blog-thumb {
+  width: 100%;
+  background-color: #030303;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+}
+
 .blog-style-one .blog-thumb img {
-  width: 170px;
+  width: 100px;
 }
 
 .blog-post-content h5 a {
@@ -7922,17 +7931,31 @@ ul.minicart .cart-price .new {
   object-fit: cover;
 }
 
+.contact-form .disclaimer {
+  display: block;
+  text-align: center;
+  margin-top: 24px;
+}
+
 .latest-match-thumb img {
   border-radius: 50%;
 }
 
 @media (min-width: 768px) {
+  .blog-thumb {
+    width: 120px;
+    margin: 15px 0 15px 15px;
+    border: 4px solid rgb(27, 16, 36);
+  }
   .latest-match-thumb {
     width: 130px;
   }
 }
 
 @media (min-width: 992px) {
+  .blog-thumb {
+    width: 132px;
+  }
   .latest-match-box {
     height: 96%;
   }
