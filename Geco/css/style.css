@@ -5604,7 +5604,7 @@ ul.minicart .cart-price .new {
 .footer-social ul li a {
   width: 36px;
   height: 36px;
-  background-color: #8a3ab9;
+  background-color: #1d9bf0;
   display: block;
   text-align: center;
   line-height: 36px;
@@ -5614,7 +5614,7 @@ ul.minicart .cart-price .new {
 }
 
 .footer-social ul li:nth-child(2) a {
-  background: #0077B5;
+  background: #8a3ab9;
 }
 
 .footer-social ul li:nth-child(3) a {
