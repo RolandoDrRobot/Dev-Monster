@@ -1903,6 +1903,10 @@ ul.minicart .cart-price .new {
   padding: 0 20px;
 }
 
+.features-item span {
+  color: #e4a101;
+}
+
 .lg-tag a::before,
 .product-content .product-tag a::before,
 .features-item .product-tag a::before {
@@ -5226,7 +5230,7 @@ ul.minicart .cart-price .new {
 
 .sidebar-new-game-content h5 a:hover,
 .contact-form button:hover,
-.features-list-content button:hover,
+.features-list-button button:hover,
 .widget button:hover {
   color: #1c1121;
   background-color: #e4a101;
@@ -5306,7 +5310,7 @@ ul.minicart .cart-price .new {
 }
 
 .contact-form button,
-.features-list-content button,
+.features-list-button button,
 .widget button {
   display: block;
   width: 100%;
