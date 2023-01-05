@@ -75,12 +75,12 @@
 - Make number inputs larger
 
 ### ⚡️ Screenshots
-<img src="Screenshots/a.png" alt="Home" width="500"/>
-<img src="Screenshots/b.png" alt="Stake" width="500"/>
-<img src="Screenshots/c.png" alt="Rewards" width="500"/>
-<img src="Screenshots/d.png" alt="Invest" width="500"/>
-<img src="Screenshots/e.png" alt="New" width="500"/>
-<img src="Screenshots/g.png" alt="Wallet" width="500"/>
-<img src="Screenshots/h.png" alt="Wallet" width="500"/>
-<img src="Screenshots/i.png" alt="Home" width="500"/>
-<img src="Screenshots/j.png" alt="Stake" width="500"/>
+<img src="screenshots/a.png" alt="Home" width="500"/>
+<img src="screenshots/b.png" alt="Stake" width="500"/>
+<img src="screenshots/c.png" alt="Rewards" width="500"/>
+<img src="screenshots/d.png" alt="Invest" width="500"/>
+<img src="screenshots/e.png" alt="New" width="500"/>
+<img src="screenshots/g.png" alt="Wallet" width="500"/>
+<img src="screenshots/h.png" alt="Wallet" width="500"/>
+<img src="screenshots/i.png" alt="Home" width="500"/>
+<img src="screenshots/j.png" alt="Stake" width="500"/>
