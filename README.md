@@ -13,7 +13,7 @@
 - I took the initial file from a template I bought in envato market [here](https://themeforest.net/item/geco-esports-gaming-html5-template/26217041), I am over writting the code to adapt It to my idea
 - The templates use bootstrap, jquery and other JS dependencies
 - Fully responsive design
-- The way I am planning to deploy this is: Open a hosting, install wordpress, install a clean templeate like underscore and upload each page one by one, and link correctly the dependencias and anchor links
+- The way I am planning to deploy this is: Open a hosting, install wordpress, install a clean templeate like [Understrap](https://understrap.com/) and upload each page one by one, and link correctly the dependencias and anchor links
 - The reason to choose wordpress is because I want to manage newsletters with mailchimp, connect contact form and add easily whatsapp chat using plugins + Connect calendly to schedule the classes
 
 
@@ -25,6 +25,7 @@
 ### ⚙️ How to use
 - The pages in the folder `Geco/layouts` are the original templates
 - I am working on the pages in `Geco/`
+- You can start here `Geco/index.html`
 
 ### 📒 Improvements Ideas
 - Complete blog page and blog content page
