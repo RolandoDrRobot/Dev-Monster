@@ -28,10 +28,14 @@
 
 ### 📒 Improvements Ideas
 - Complete blog page and blog content page
+- Upload articles to the blog
 
 ### 📕 Tech debt
 - Complete section `Happy Members`
 - Deploy in wordpress (Soon)
+- Connect contact form
+- Connect newsletter (mailchimp)
+- Connect Whatsapp chat
 
 ### ⚡️ Screenshots - pages in progress
 <img src="screenshots/a.png" alt="Home" width="600"/>
