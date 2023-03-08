@@ -7970,3 +7970,15 @@ ul.minicart .cart-price .new {
     height: 92%;
   }
 }
+
+.tournament-schedule-item {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.tournament-schedule-item .coming-match-status img {
+	width: 100px;
+  border-radius: 10px;
+}
