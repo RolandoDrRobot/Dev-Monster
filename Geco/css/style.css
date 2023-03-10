@@ -3436,6 +3436,8 @@ ul.minicart .cart-price .new {
 
 .features-list-img img {
   border-radius: 6px;
+  width: 60px;
+  filter: drop-shadow(20px 5px 31px #11001D);
 }
 
 .features-list-content .product-tag {
@@ -5604,6 +5606,15 @@ ul.minicart .cart-price .new {
 .footer-social ul li {
   display: block;
   margin-right: 9px;
+}
+
+.footer-social a {
+  color: #fff;
+  transition: all 0.3s;
+}
+
+.footer-social a:hover {
+  color: #f2a900;
 }
 
 .footer-social ul li a {
@@ -7990,4 +8001,13 @@ ul.minicart .cart-price .new {
 
 .tournament-schedule-content p a {
   color: #e4a101;
+}
+
+.footer-contact a {
+  color: #f2a900;
+  transition: all 0.3s;
+}
+
+.footer-contact a:hover {
+  color: #fff;
 }
