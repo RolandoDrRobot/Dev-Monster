@@ -16,7 +16,7 @@
 6. Brand
 7. Product-area
 8. About-us
-9. Game Released
+9. Game Releaseda
 10. Game Manage
 11. Featured-Games
 12. Cta
@@ -125,6 +125,10 @@ textarea:focus {
 
 .capitalize {
   text-transform: capitalize;
+}
+
+a {
+  transition: all 0.3s;
 }
 
 h1,
@@ -236,6 +240,10 @@ label {
   opacity: 1;
 }
 
+.a:hover {
+  color: #f2a900;
+}
+
 .theme-overlay {
   position: relative
 }
@@ -288,7 +296,7 @@ label {
   position: absolute;
   left: 0;
   bottom: -5px;
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/btn_overlay.png');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/btn_overlay.png');
   width: 100%;
   height: 55px;
   background-repeat: no-repeat;
@@ -441,7 +449,7 @@ label {
   top: 0;
   height: 100%;
   width: 100%;
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/offer_count_bg.png');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/offer_count_bg.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -589,7 +597,7 @@ ul.minicart .cart-content a:hover,
 }
 
 .main-header {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/header_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/header_bg.jpg');
   background-position: right center;
   background-size: cover;
   position: relative;
@@ -881,7 +889,7 @@ ul.minicart .cart-price .new {
 .menu-style-two {
   padding: 28px 30px;
   border-radius: 0 0 14px 14px;
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/header_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/header_bg.jpg');
   background-position: right center;
   background-size: cover;
   position: relative;
@@ -982,7 +990,7 @@ ul.minicart .cart-price .new {
   top: 0;
   width: 100%;
   z-index: 99;
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/header_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/header_bg.jpg');
   -webkit-animation: 1000ms ease-in-out 0s normal none 1 running fadeInDown;
   animation: 1000ms ease-in-out 0s normal none 1 running fadeInDown;
   -webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
@@ -1012,7 +1020,7 @@ ul.minicart .cart-price .new {
 }
 
 .t-header-top-area .header-top-social ul li a {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/header_social_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/header_social_bg.jpg');
   display: block;
   width: 38px;
   height: 32px;
@@ -1080,7 +1088,7 @@ ul.minicart .cart-price .new {
 }
 
 .third-header-bg .bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/h3_header_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/h3_header_bg.jpg');
   position: absolute;
   left: 0;
   top: 0;
@@ -1143,7 +1151,7 @@ ul.minicart .cart-price .new {
 }
 
 .header-bottom-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/header_bottom_bg.png');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/header_bottom_bg.png');
   position: absolute;
   left: 0;
   bottom: -5px;
@@ -1172,11 +1180,11 @@ ul.minicart .cart-price .new {
 }
 
 .third-header-bg .sticky-menu {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/h3_header_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/h3_header_bg.jpg');
 }
 
 .header-style-four .header-top-area {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/fourth_header_top_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/fourth_header_top_bg.jpg');
   background-position: center;
   background-size: cover;
   padding: 22px 0;
@@ -1363,7 +1371,7 @@ ul.minicart .cart-price .new {
 
 /* 4. Breadcrumb */
 .breadcrumb-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/breadcrumb_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/breadcrumb_bg.jpg');
   padding-top: 200px;
   padding-bottom: 170px;
   background-position: center;
@@ -1371,11 +1379,11 @@ ul.minicart .cart-price .new {
 }
 
 .s-breadcrumb-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/breadcrumb_bg02.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/breadcrumb_bg02.jpg');
 }
 
 .third-breadcrumb-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/breadcrumb_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/breadcrumb_bg.jpg');
 }
 
 .breadcrumb-content img {
@@ -1476,7 +1484,7 @@ ul.minicart .cart-price .new {
 
 /* 5. Slider */
 .slider-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/slider_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/slider_bg.jpg');
   background-position: center;
   background-size: cover;
   padding: 120px 0 260px;
@@ -1544,7 +1552,7 @@ ul.minicart .cart-price .new {
 }
 
 .slider-style-two {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/slider_bg02.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/slider_bg02.jpg');
   padding: 290px 0 190px;
   position: relative;
   z-index: 1;
@@ -1645,7 +1653,7 @@ ul.minicart .cart-price .new {
 }
 
 .third-banner-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/third_banner_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/third_banner_bg.jpg');
   background-position: center center;
   background-size: cover;
   position: relative;
@@ -1751,7 +1759,7 @@ ul.minicart .cart-price .new {
 }
 
 .home-four-slider .slider-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/fourth_banner_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/fourth_banner_bg.jpg');
   background-position: center;
   background-size: cover;
   padding: 205px 0 205px;
@@ -1771,7 +1779,7 @@ ul.minicart .cart-price .new {
 
 /* 6. Brand */
 .brand-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/brand_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/brand_bg.jpg');
   background-position: center;
   background-size: cover;
   padding: 60px 0;
@@ -1811,19 +1819,19 @@ ul.minicart .cart-price .new {
 }
 
 .home-four-brand.brand-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/s_brand_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/s_brand_bg.jpg');
 }
 
 /* area-bg */
 .area-bg-one {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/area_bg01.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/area_bg01.jpg');
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
 }
 
 .area-bg-two {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/area_bg02.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/area_bg02.jpg');
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -1834,7 +1842,7 @@ ul.minicart .cart-price .new {
 }
 
 .home-four-area-bg .bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/home_four_area_bg.png');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/home_four_area_bg.png');
   position: absolute;
   left: 0;
   top: 0;
@@ -2020,14 +2028,14 @@ ul.minicart .cart-price .new {
   position: absolute;
   left: 0;
   bottom: 0;
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/title_bar.png');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/title_bar.png');
   width: 270px;
   height: 13px;
   background-repeat: no-repeat;
 }
 
 .title-style-three::before {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/title_bar02.png');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/title_bar02.png');
 }
 
 .title-style-three h2 {
@@ -2107,7 +2115,7 @@ ul.minicart .cart-price .new {
 }
 
 .third-about-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/third_about_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/third_about_bg.jpg');
   background-position: center;
   background-size: cover;
   position: relative;
@@ -2183,7 +2191,7 @@ ul.minicart .cart-price .new {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/section_line.png');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/section_line.png');
   width: 120px;
   height: 8px;
   margin: 0 auto;
@@ -2197,7 +2205,7 @@ ul.minicart .cart-price .new {
 }
 
 .my-info-box-top {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/my_info_box_bg.png');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/my_info_box_bg.png');
   min-height: 48px;
   width: 100%;
   background-position: center;
@@ -2319,7 +2327,7 @@ ul.minicart .cart-price .new {
 .home-four-title.text-center h2::after {
   content: "";
   display: block;
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/title_bar04.png');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/title_bar04.png');
   width: 126px;
   height: 13px;
   margin: 17px auto 0;
@@ -2406,7 +2414,7 @@ ul.minicart .cart-price .new {
 .live-match-team::before {
   content: "";
   position: absolute;
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/dots.png');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/dots.png');
   width: 566px;
   height: 560px;
   right: 35px;
@@ -2442,7 +2450,7 @@ ul.minicart .cart-price .new {
 }
 
 .released-game-item-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/released_slide_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/released_slide_bg.jpg');
   position: absolute;
   left: 0;
   top: 0;
@@ -2490,7 +2498,7 @@ ul.minicart .cart-price .new {
 
 .released-game-content h4::before {
   content: "";
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/released_game_brush.png');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/released_game_brush.png');
   position: absolute;
   right: -50px;
   top: 0;
@@ -2601,7 +2609,7 @@ ul.minicart .cart-price .new {
 }
 
 .game-mange-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/game_manage_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/game_manage_bg.jpg');
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -2832,7 +2840,7 @@ ul.minicart .cart-price .new {
 }
 
 .featured-game-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/featured_game_bg.png');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/featured_game_bg.png');
   background-position: center;
   background-size: cover;
   position: absolute;
@@ -2863,7 +2871,7 @@ ul.minicart .cart-price .new {
 
 /* 12. Cta */
 .cta-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/cta_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/cta_bg.jpg');
   padding: 120px 0;
   background-position: center;
   background-size: cover;
@@ -3004,7 +3012,7 @@ ul.minicart .cart-price .new {
 }
 
 .latest-match-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/latest_match_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/latest_match_bg.jpg');
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -3114,7 +3122,7 @@ ul.minicart .cart-price .new {
 }
 
 .team-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/third_team_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/third_team_bg.jpg');
   background-position: bottom center;
   background-size: cover;
   padding: 110px 0 90px;
@@ -3127,7 +3135,7 @@ ul.minicart .cart-price .new {
 }
 
 .third-team-content .main-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/team_content_bg.png');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/team_content_bg.png');
   width: 302px;
   height: 93px;
   position: absolute;
@@ -3139,7 +3147,7 @@ ul.minicart .cart-price .new {
 }
 
 .third-team-content .hover-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/team_content_hover_bg.png');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/team_content_hover_bg.png');
   width: 302px;
   height: 93px;
   position: absolute;
@@ -3191,7 +3199,7 @@ ul.minicart .cart-price .new {
 }
 
 .game-gallery-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/game_gallery_bg.png');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/game_gallery_bg.png');
   background-position: top center;
   background-size: cover;
   position: absolute;
@@ -3258,7 +3266,7 @@ ul.minicart .cart-price .new {
 
 /* 14. Just-gamers */
 .just-gamers-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/just_gamer_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/just_gamer_bg.jpg');
   position: relative;
   background-position: center;
   background-size: cover;
@@ -3271,7 +3279,7 @@ ul.minicart .cart-price .new {
   position: absolute;
   left: 0;
   right: 0;
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/gamers_bg_conve01.png');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/gamers_bg_conve01.png');
   width: 467px;
   height: 169px;
   margin: 0 auto;
@@ -3285,7 +3293,7 @@ ul.minicart .cart-price .new {
   position: absolute;
   left: 0;
   right: 0;
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/gamers_bg_conve02.png');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/gamers_bg_conve02.png');
   width: 420px;
   height: 152px;
   margin: 0 auto;
@@ -3303,7 +3311,7 @@ ul.minicart .cart-price .new {
 }
 
 .title-style-three.white-title::before {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/title_bar03.png');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/title_bar03.png');
 }
 
 .just-gamers-list ul li {
@@ -3314,7 +3322,7 @@ ul.minicart .cart-price .new {
 
 .just-gamers-list-icon {
   float: left;
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/gamer_list_icon_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/gamer_list_icon_bg.jpg');
   width: 97px;
   height: 97px;
   text-align: center;
@@ -3376,7 +3384,7 @@ ul.minicart .cart-price .new {
 
 /* 15. Features */
 .features-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/features_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/features_bg.jpg');
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -3650,7 +3658,7 @@ ul.minicart .cart-price .new {
 }
 
 .home-four-shop-area {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/home_four_shop_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/home_four_shop_bg.jpg');
   background-position: center;
   background-size: cover;
 }
@@ -3811,7 +3819,7 @@ ul.minicart .cart-price .new {
 }
 
 .upcoming-games-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/upc_game_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/upc_game_bg.jpg');
   background-position: center;
   background-size: cover;
 }
@@ -3993,7 +4001,7 @@ ul.minicart .cart-price .new {
 
 /* Donation */
 .donation-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/donation_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/donation_bg.jpg');
   background-position: center;
   background-size: cover;
 }
@@ -4770,7 +4778,7 @@ ul.minicart .cart-price .new {
 
 /* My match */
 .my-match-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/my_match_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/my_match_bg.jpg');
   background-position: center;
   background-size: cover;
   padding-top: 190px;
@@ -4902,7 +4910,7 @@ ul.minicart .cart-price .new {
   background-color: rgb(27, 16, 36);
   box-shadow: 0px 5px 12.09px 0.91px rgba(0, 0, 0, 0.34);
   position: relative;
-  padding: 70px 0 63px;
+  padding: 30px 0;
 }
 
 .testimonial-item {
@@ -5332,7 +5340,7 @@ ul.minicart .cart-price .new {
 }
 
 .third-contact-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/third_contact_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/third_contact_bg.jpg');
   background-position: center;
   background-size: cover;
   padding: 120px 0;
@@ -5525,7 +5533,7 @@ ul.minicart .cart-price .new {
 
 /* 26. Footer */
 .footer-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/footer_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/footer_bg.jpg');
   background-color: #f9f9f9;
   background-position: top center;
   background-size: cover;
@@ -5535,7 +5543,7 @@ ul.minicart .cart-price .new {
 }
 
 .third-footer-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/t_footer_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/t_footer_bg.jpg');
   padding-top: 90px;
   padding-bottom: 40px;
 }
@@ -5700,7 +5708,7 @@ ul.minicart .cart-price .new {
 }
 
 .s-footer-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/s_footer_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/s_footer_bg.jpg');
 }
 
 .s-footer-bg .fw-title h5 {
@@ -5828,7 +5836,7 @@ ul.minicart .cart-price .new {
 
 /* Banner */
 .home-five-banner {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/fifth_banner_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/fifth_banner_bg.jpg');
   background-position: center;
   background-size: cover;
   padding: 215px 0 190px;
@@ -6121,7 +6129,7 @@ ul.minicart .cart-price .new {
 
 /* live-streaming */
 .live-streaming-area {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/streaming_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/streaming_bg.jpg');
   background-position: center;
   background-size: cover;
   padding: 84px 0 50px;
@@ -6500,7 +6508,7 @@ ul.minicart .cart-price .new {
 
 /* Footer */
 .home-five-footer .footer-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/h5_footer_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/h5_footer_bg.jpg');
   background-position: center;
   background-size: cover;
 }
@@ -6603,7 +6611,7 @@ ul.minicart .cart-price .new {
 
 /* Banner */
 .home-six-banner {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/magazine_banner_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/magazine_banner_bg.jpg');
   background-position: center;
   background-size: cover;
   padding: 105px 0 35px;
@@ -6821,7 +6829,7 @@ ul.minicart .cart-price .new {
 }
 
 .home-seven-slider {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/shop_slider_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/shop_slider_bg.jpg');
   background-position: center;
   background-size: cover;
   padding: 110px 0 108px;
@@ -7098,7 +7106,7 @@ ul.minicart .cart-price .new {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/s_section_line.png');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/s_section_line.png');
   width: 120px;
   height: 8px;
   margin: 0 auto;
@@ -7247,7 +7255,7 @@ ul.minicart .cart-price .new {
 
 /* makes-gaming-chair */
 .makes-gaming-chair {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/makes_chair_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/makes_chair_bg.jpg');
   background-position: center;
   background-size: cover;
   position: relative;
@@ -7314,7 +7322,7 @@ ul.minicart .cart-price .new {
   position: absolute;
   left: 46%;
   top: 0;
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/mgc_bg_conve01.png');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/mgc_bg_conve01.png');
   width: 420px;
   height: 152px;
   z-index: -1;
@@ -7325,7 +7333,7 @@ ul.minicart .cart-price .new {
   position: absolute;
   left: 46%;
   bottom: 0;
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/mgc_bg_conve02.png');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/mgc_bg_conve02.png');
   width: 420px;
   height: 152px;
   z-index: -1;
@@ -7468,7 +7476,7 @@ ul.minicart .cart-price .new {
   position: absolute;
   left: 0;
   right: 0;
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/chair_discount_shape.png');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/chair_discount_shape.png');
   width: 1522px;
   height: 100%;
   margin: 0 auto;
@@ -7767,7 +7775,7 @@ ul.minicart .cart-price .new {
 
 /* live-streaming */
 .live-streaming-two {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/streaming_bg02.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/streaming_bg02.jpg');
 }
 
 .live-streaming-two::before {
@@ -7776,7 +7784,7 @@ ul.minicart .cart-price .new {
 
 /* Game News */
 .latest-game-news-area {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/latest_game_news.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/latest_game_news.jpg');
   background-position: center;
   background-size: cover;
   padding: 80px 0 140px;
@@ -7858,7 +7866,7 @@ ul.minicart .cart-price .new {
 
 /* Footer */
 .home-six-footer .footer-bg {
-  background-image: url('https://monstermembers.com/wp-content/uploads/2023/03/h5_footer_bg.jpg');
+  background-image: url('https://rolandoarguello.com/wp-content/uploads/2023/05/h5_footer_bg.jpg');
   background-position: center;
   background-size: cover;
 }
